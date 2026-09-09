@@ -1575,5 +1575,41 @@
       "시사"
     ],
     "url": "https://www.youtube.com/channel/UCctpAWSAuzdHPi7HnUoDgFg/videos"
+  },
+  {
+    "name": "한반도 백과사전",
+    "type": "일반, 뉴스",
+    "categories": [
+      "시사",
+      "국뽕"
+    ],
+    "url": "https://www.youtube.com/channel/UCFZHPrufdDE7AKeF7wule9A/videos"
+  },
+  {
+    "name": "일등경제",
+    "type": "일반, 뉴스",
+    "categories": [
+      "시사",
+      "국뽕"
+    ],
+    "url": "https://www.youtube.com/channel/UCLjD99jX6LOYWeFZLQQNHTg/videos"
+  },
+  {
+    "name": "경제백서",
+    "type": "일반, 뉴스",
+    "categories": [
+      "경제",
+      "국뽕"
+    ],
+    "url": "https://www.youtube.com/channel/UC8CWQas_ZPTFFoCrV0ONj0g/videos"
+  },
+  {
+    "name": "찐경제",
+    "type": "일반, 뉴스",
+    "categories": [
+      "경제",
+      "국뽕"
+    ],
+    "url": "https://www.youtube.com/channel/UC-PQPucINFHZAla_ri355RA/videos"
   }
 ]
